@@ -1,0 +1,7 @@
+../Core/Src/traffic_light.c:3:6:decoder_Led	5
+../Core/Src/traffic_light.c:50:6:blink_Led	6
+../Core/Src/traffic_light.c:106:13:En_led_7_seg	1
+../Core/Src/traffic_light.c:113:6:updateClockBuffer	1
+../Core/Src/traffic_light.c:120:6:update_value_7segment	1
+../Core/Src/traffic_light.c:135:13:update7SEG	2
+../Core/Src/traffic_light.c:153:6:scan_led	3
